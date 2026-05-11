@@ -35,7 +35,6 @@ label{
     margin-bottom:8px;
     font-size: 15px;
     transition: border-color o.2s ease;
-
 }
 
 button{
@@ -49,6 +48,6 @@ button{
     transition:background-color o.2s ease;
 
 }
-button:hover{
+button:hover{      
     background-color: brown;
 }
